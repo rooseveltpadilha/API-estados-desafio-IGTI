@@ -4,10 +4,6 @@
 
 API feita com express + cors. Criada para resolver uma lista de problemas de uma atividade do IGTI.
 
-**Enunciado**
-
-O aluno deverá criar um projeto Node.js para realizar a criação de alguns métodos e processamento de arquivos JSON.
-
 ![lista de atividades](https://i.ibb.co/KqzSz0J/image.png)
 
 Para startar:
